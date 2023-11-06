@@ -1,12 +1,24 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: AWS, Azure, Kubernetes, Openshift
+  description: |
+    I have extensive expertise in AWS and Azure cloud platforms, showcasing a track record of effectively managing and optimizing cloud resources. My proficiency in Kubernetes ensures efficient and scalable container orchestration, while my experience with OpenShift highlights my ability to streamline application development and deployment, improving time to market and reducing costs.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Cloud Security, SecDevOps, Zero Trust
+  description: |
+    Drawing on my deep understanding of cloud security, I have successfully implemented and maintained robust security measures within cloud environments. My proficiency in SecDevOps methodologies enables seamless integration of security into the development process, ensuring secure and efficient software delivery. Additionally, I have expertise in implementing Zero Trust principles to enhance network security and protect against evolving cyber threats.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: GitHub, GitLab, CircleCI, Jenkins
+  description: |
+    I have advanced skills in using GitHub and GitLab for version control, CI/CD pipelines, and collaboration in development projects, enabling me to manage code efficiently and effectively. Additionally, I have extensive experience with dedicated CI/CD tools such as CircleCI and Jenkins, which I leverage to automate and optimize the software development lifecycle for efficient and high-quality application delivery.
+
+- skill: Terraform, Pulumi, Ansible, Puppet
+  description: |
+    I have a deep understanding of Infrastructure as Code tools like Terraform and Pulumi, enabling me to efficiently manage and automate cloud infrastructure, ensuring scalability, reliability, and security. Additionally, my expertise in configuration management tools such as Ansible and Puppet ensures the seamless and secure deployment of software across various environments, demonstrating my proficiency in infrastructure orchestration and software deployment.
+
+- skill: Python, Bash, Javascript
+  description: |
+    I have substantial experience in Python for versatile application development and automation, enabling me to create and deploy high-quality software solutions efficiently and effectively. As well as expertise in Bash scripting for system administration, allowing me to automate and streamline system administration tasks. Additionally, I leverage JavaScript extensively for infrastructure orchestration, demonstrating my ability to use a variety of languages to solve complex problems.
+

@@ -1,19 +1,52 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Experiences
+- company: Netlight GmbH
+  location: Frankfurt, Germany
+  position: IT Manager
+  duration: May 2022 &mdash; Present
+  summary: |
+    <ul class="resume-item-list" style="padding-left: 20px;">
+      <li>Raising the bar for engineering by role modeling and mentoring engineers across the organization.</li>
+      <li>Interviewing and hiring new talents to drive sustainable growth for the Frankfurt office.</li>
+    </ul>
+    
+- company: Netlight GmbH
+  location: Munich, Germany
+  position: IT Consultant
+  duration: May 2018 &mdash; Present
+  summary: |
+    <ul class="resume-item-list" style="padding-left: 20px;">
+      <li>Applying expertise in Cloud, DevOps, and Cybersecurity domains to provide tailored solutions to meet customer needs.</li>
+      <li>Contributing to knowledge sharing and tech branding through representing Netlight at conferences and tech events.</li>
+      <li>Engaging in technical sales meetings to evaluate and respond to customer requirements.</li>
+    </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: MainbornWolff GmbH
+  location: Munich, Germany
+  position: Test Engineer
+  duration: October 2017 &mdash; April 2018
+  summary: |
+    <ul class="resume-item-list" style="padding-left: 20px;">
+      <li>Organized workshops on agile test methodologies, guiding clients in adopting best practices.</li>
+      <li>Coached clients on the implementation of automated acceptance tests for streamlined development processes.</li>
+    </ul>
+
+- company: Halmstad University
+  location: Halmstad, Sweden
+  position: Research Engineering
+  duration: August 2015 &mdash; September 2017
+  summary: |
+    <ul class="resume-item-list" style="padding-left: 20px;">
+      <li>Conducted research aimed at optimising regression testing for software product lines.</li>
+      <li>Contributed to advancements in software testing methodologies through rigorous analysis and experimentation.</li>
+    </ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: T-Systems International GmbH
+  location: Darmstadt, Germany
+  position: System Engineer
+  duration: March 2013 &mdash; July 2015
+  summary: |
+    <ul class="resume-item-list" style="padding-left: 20px;">
+      <li>Developed a location-based Android app, demonstrating strong software engineering skills.</li>
+      <li>Established efficient CI/CD processes to enable rapid and reliable software delivery..</li>
+    </ul>

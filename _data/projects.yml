@@ -1,16 +1,39 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Staff Engineer &bull; Cloud Security
+  duration: April 2023 &mdash; July 2023
+  company: Ecommerce (confidential)
+  description: |
+    Performed a comprehensive audit of the organization's cloud infrastructure and software development lifecycle, aligning with CIS and NIST standards. 
+    Leveraged quantitative risk analysis to systematically identify and prioritize security vulnerabilities, developing a targeted mitigation strategy. 
+    Additionally, championed a culture of security awareness and education within engineering teams, cultivating a more security-conscious and proactive work environment.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Staff Engineer &bull; Solution Architecture
+  duration: July 2022 &mdash; March 2023
+  company:  (confidential)
+  description: | 
+    Orchestrated the transition of multiple teams to cloud-based container solutions, leveraging my expertise in cloud-native solutions. Ensured optimal resource allocation and reliability by guiding teams on microservice architecture and best practices in infrastructure management. Additionally, integrated vulnerability management and automated dependency updates to secure the software development lifecycle.
+
+- project: Staff Engineer &bull; Container Platform
+  duration: May 2021 &mdash; June 2022
+  company: Financial Service Provider (confidential)
+  description: |
+    Empowered engineering teams to achieve autonomous and rapid product delivery by leading a platform team that implemented advanced platform practices for secret and vulnerability management. Developed and implemented a comprehensive disaster recovery and business continuity plan to ensure the resilience of critical business operations during unexpected events.
+
+- project: Senior Engineer &bull; Data Engineering
+  duration: October 2020 &mdash; April 2021
+  company: Biotech (confidential)
+  description: |
+    Designed and implemented secure data pipelines for IoT devices, enabling seamless data ingestion into an Apache Kafka cluster. Leveraged Private Key Infrastructure to authenticate devices and efficiently channeled data streams into dedicated topics.
+
+- project: Senior Engineer &bull; Solution Architecture
+  duration: October 2019 &mdash; June 2020
+  company: Financial Service Provider (confidential)
+  description: |
+    Migrated on-premise applications to a private cloud infrastructure, optimizing them for efficient cloud computing. Trained engineers on new cloud-native concepts and practices, and managed stakeholder approval of applications throughout the migration process.
+
+- project: Senior Engineer &bull; Technical Architecture
+  duration: January 2019 &mdash; September 2019
+  company: Mobility 
+  description: |
+    Collaborated with a cross-functional team to deliver tailored cloud services beyond conventional offerings. Played a pivotal role in successfully defining infrastructure, managing resources, and optimizing deployment processes.
